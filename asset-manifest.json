@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/cowalletf/static/css/main.3e2fe941.css",
+    "main.js": "/cowalletf/static/js/main.588266fd.js",
+    "static/js/787.a125a069.chunk.js": "/cowalletf/static/js/787.a125a069.chunk.js",
+    "index.html": "/cowalletf/index.html",
+    "main.3e2fe941.css.map": "/cowalletf/static/css/main.3e2fe941.css.map",
+    "main.588266fd.js.map": "/cowalletf/static/js/main.588266fd.js.map",
+    "787.a125a069.chunk.js.map": "/cowalletf/static/js/787.a125a069.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3e2fe941.css",
+    "static/js/main.588266fd.js"
+  ]
+}
